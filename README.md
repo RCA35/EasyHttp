@@ -1,6 +1,6 @@
 # Project Status
 
-This project is active and maintained by [David Alpert](https://github.com/davidalpert).
+This project is active and maintained by RCA35 (forked from EasyHttp). Modifying for dotnet core 2.0.
 
 # EasyHttp
 
